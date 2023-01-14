@@ -39,7 +39,7 @@
 }
 
 .deleteButton:hover {
-  color: red;
+  color: var(--danger);
 }
 
 .checkContainer svg {
