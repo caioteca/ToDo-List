@@ -35,6 +35,11 @@
   background: none;
   border: none;
   color: var(--gray-300);
+  transition: 0.6s;
+}
+
+.deleteButton:hover {
+  color: red;
 }
 
 .checkContainer svg {
